@@ -47,4 +47,4 @@ An integrated web ecosystem that provides:
    git clone [https://github.com/zhtpsv/iitu-dormitory.git]
 
 # 🌐 Live Demo
-🔗 **[Open Web / Live Demo](https://iitu-dormitory.vercel.app)**
+🔗 <a href="https://iitu-dormitory.vercel.app" target="_blank" rel="noopener noreferrer">Открыть рабочий сайт (в новом окне)</a>
