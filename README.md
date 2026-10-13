@@ -44,4 +44,4 @@ An integrated web ecosystem that provides:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/zhtpsv/iitu-dormitory.git](https://github.com/zhtpsv/iitu-dormitory.git)
+   git clone [https://github.com/zhtpsv/iitu-dormitory.git]
