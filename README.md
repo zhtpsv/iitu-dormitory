@@ -45,3 +45,6 @@ An integrated web ecosystem that provides:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/zhtpsv/iitu-dormitory.git]
+
+# 🌐 Live Demo
+🔗 **[Open Web / Live Demo](https://iitu-dormitory.vercel.app)**
