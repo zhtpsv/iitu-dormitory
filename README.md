@@ -4,7 +4,7 @@ A web-based information system designed to automate student dormitory check-in, 
 
 
 ## 📋 Project Evaluation Criteria
-
+## 📋 Project Evaluation Criteria
 ### 1. Scope of Application
 The system is designed for implementation at International IT University (IITU) and other higher education institutions across Kazakhstan. Primary user roles include:
 * **Students:** Online application submission, interactive floor/room/bed selection, and maintenance request dispatching.
