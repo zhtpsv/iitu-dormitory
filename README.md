@@ -2,7 +2,6 @@
 
 A web-based information system designed to automate student dormitory check-in, room/bed allocation, and housing management.
 
-
 ## 📋 Project Evaluation Criteria
 ## 📋 Project Evaluation Criteria
 ### 1. Scope of Application
@@ -33,7 +32,6 @@ An integrated web ecosystem that provides:
 * An admin dashboard displaying occupancy analytics, debt tracking, and room status management.
 * SmartDorm Pass (QR code authentication) and an integrated Helpdesk system for maintenance requests.
 
-
 ## 🛠 Technology Stack
 * **Frontend:** React, TypeScript, React Router DOM
 * **Styling & UI:** CSS Modules / Tailwind CSS / Bootstrap
@@ -41,7 +39,6 @@ An integrated web ecosystem that provides:
 
 
 ## 📑 Getting Started
-
 1. Clone the repository:
    ```bash
    git clone [https://github.com/zhtpsv/iitu-dormitory.git]
