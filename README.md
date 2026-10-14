@@ -7,7 +7,7 @@ A web-based information system designed to automate student dormitory check-in, 
 
 ### 1. Scope of Application
 The system is designed for implementation at International IT University (IITU) and other higher education institutions across Kazakhstan. Primary user roles include:
-* **Students:** Online application submission, interactive floor/room/bed selection, digital QR pass (SmartDorm Pass), and maintenance request dispatching.
+* **Students:** Online application submission, interactive floor/room/bed selection, and maintenance request dispatching.
 * **Administration / Dorm Supervisors:** Real-time room inventory management, application approvals, analytics, and operational dashboards.
 * **Parents:** Real-time residency status monitoring and fee payments via a dedicated Parent Pass token.
 
